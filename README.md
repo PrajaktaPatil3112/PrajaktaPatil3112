@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prajakta Patil</h1>
 <h3 align="center">A passionate frontend developer Motivated Computer Engineering student with expertise in frontend development using React. </h3>
 
-- 🌱 I’m currently learning💻 I'm currently learning React, Tailwind CSS, Material-UI, and RESTful API integration, and have completed an 11-month internship as a Frontend Developer, working on real-world web projects. 
+- 💻 I'm currently learning React, Tailwind CSS, Material-UI, and RESTful API integration, and have completed an 11-month internship as a Frontend Developer, working on real-world web projects. 
 
 - 💬 Ask me about **React.js,Javascript,Python**
 
