@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajakta Patil</h1>
-<h3 align="center">A passionate frontend developer Motivated Computer Engineering student with expertise in frontend development using React. Passionate about building innovative solutions and solving complex problems. Seeking opportunities to apply technical skills and creativity in a dynamic environment. rom India</h3>
+<h3 align="center">A passionate frontend developer Motivated Computer Engineering student with expertise in frontend development using React.  rom India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajaktapatil3112&label=Profile%20views&color=0e75b6&style=flat" alt="prajaktapatil3112" /> </p>
 
