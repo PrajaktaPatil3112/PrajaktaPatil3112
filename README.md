@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Prajakta Patil</h1>
-<h3 align="center">A passionate frontend developer fMotivated Computer Engineering student with expertise in frontend development using React. Passionate about building innovative solutions and solving complex problems. Seeking opportunities to apply technical skills and creativity in a dynamic environment. rom India</h3>
+<h3 align="center">A passionate frontend developer Motivated Computer Engineering student with expertise in frontend development using React. Passionate about building innovative solutions and solving complex problems. Seeking opportunities to apply technical skills and creativity in a dynamic environment. rom India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajaktapatil3112&label=Profile%20views&color=0e75b6&style=flat" alt="prajaktapatil3112" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajaktapatil3112" alt="prajaktapatil3112" /></a> </p>
 
-- 🌱 I’m currently learning💻 I'm currently learning React, Tailwind CSS, Material-UI, and RESTful API integration, and have completed an 11-month internship as a Frontend Developer, working on real-world web projects. **React.js,Node.js,Python**
+- 🌱 I’m currently learning💻 I'm currently learning React, Tailwind CSS, Material-UI, and RESTful API integration, and have completed an 11-month internship as a Frontend Developer, working on real-world web projects. 
 
-- 💬 Ask me about **React.js,Javascript**
+- 💬 Ask me about **React.js,Javascript,Python**
 
 - 📫 How to reach me **prajaktapatil3112@gmail.com**
 
